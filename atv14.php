@@ -23,7 +23,7 @@
             if ($num % 2 == 0) {
                 echo $num . "</br>";
                 echo "O número informado é PAR ";
-            } 
+            }
             else {
                 echo $num . "</br>";
                 echo "O número informado é IMPAR ";
